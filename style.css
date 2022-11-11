@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Lobster&family=Paytone+One&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.Spider{
+    width: 100px;
+    height: 190px;
+}
+
+.Spider-body{
+  width: 250px;
+  height: 350px; 
+  background: rgb(228, 232, 228); 
+  margin: 25px auto;
+  border-radius: 10px;
+  
+
+}
+.Spider-body-top{
+height: 300px;
+background: linear-gradient(145deg, #8e9c9f, #62757a);;
+border-radius: 10px 10px 0 0;
+box-shadow:  46px 46px 82px #254047,
+             -46px -46px 82px #90a8a8;
+             
+}
+.Spider-body-bottom{
+    height: 50px;
+    background: linear-gradient(145deg, #535454, #898a8b);;
+    border-radius:0 0 10px 10px;
+    box-shadow:  20px 20px 60px #000000,
+    -20px -20px 60px #282b2b;
+    
+}
+.img{
+    display: block; 
+    width: 250px;
+    margin: 0 auto;
+}
+.text{
+    font-family: 'Paytone One', sans-serif; 
+    font-size: 40px;
+    text-align: center; 
+    color: rgb(227, 227, 228);
+             
+}
+ .like{
+    width: 45px;
+    height: 45px;
+    box-align: center;
+    background: #898a8b;
+    border-radius:10px 10px 10px 10px;
+    margin-top: 2px;
+    margin-left: 100px;
+}
+.IronMen{
+    width: 100px;
+    height: 190px;
+    padding-left:280px;
+    margin-top: -215px;
+}
+
+.IronMen-body{
+  width: 250px;
+  height: 350px; 
+  background: rgb(228, 232, 228); 
+  margin: 25px auto;
+  border-radius: 10px;
+  
+
+}
+.IronMen-body-top{
+height: 300px;
+background: linear-gradient(145deg, #8e9c9f, #62757a);;
+border-radius: 10px 10px 0 0;
+box-shadow:  46px 46px 82px #254047,
+             -46px -46px 82px #90a8a8;
+             
+}
+.IronMen-body-bottom{
+    height: 50px;
+    background: linear-gradient(145deg, #535454, #898a8b);;
+    border-radius:0 0 10px 10px;
+    box-shadow:  20px 20px 60px #000000,
+    -20px -20px 60px #282b2b;
+    
+}
+.img{
+    display: block; 
+    width: 250px;
+    margin: 0 auto;
+}
+.text{
+    font-family: 'Paytone One', sans-serif; 
+    font-size: 40px;
+    margin-top:-10px;
+    color: rgb(227, 227, 228);
+             
+}
+ .like{
+    width: 45px;
+    height: 45px;
+    box-align: center;
+    background: #898a8b;
+    border-radius:10px 10px 10px 10px;
+    margin-top: 2px;
+    margin-left: 100px;
+}
+
+
+
+
+  
